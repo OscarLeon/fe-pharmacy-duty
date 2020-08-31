@@ -2,8 +2,8 @@
 
 ## 1. Frameworks Utilizados
 
-- VueJS 2.6
-- Bootstrap 4.5
+- NestJS 7.0
+- Swagger 4.1
 
 ## 2. Requerimientos
 
@@ -35,7 +35,7 @@ que se acabó de crear al ejecutar el comando anterior.
 
     cd fe-pharmacy-duty
 
-Luego, la instalación de las librerias JS necesarias:
+Finalmente, la instalación de las librerias JS necesarias:
 
 ```
 npm install
