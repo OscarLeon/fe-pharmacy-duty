@@ -59,7 +59,21 @@ npm run build
 npm run lint
 ```
 
-## 4. Soporte
+## 4. Pasos para ejecutar la aplicación
+
+Paso 1: Ejecutamos el siguiente comando para levantar el servidor de desarrollo
+
+```
+npm run serve
+```
+
+Paso Final: Luego escribimos en nuestro navegador la siguiente url para ver la api este funcionando correctamente
+
+```
+http://localhost:8080
+```
+
+## 5. Soporte
 
 En caso de necesitar ayuda contactar a:
 
