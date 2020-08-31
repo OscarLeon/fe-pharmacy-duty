@@ -2,8 +2,8 @@
 
 ## 1. Frameworks Utilizados
 
-- NestJS 7.0
-- Swagger 4.1
+- VueJS 2.6
+- Bootstrap 4.5
 
 ## 2. Requerimientos
 
